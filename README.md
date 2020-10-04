@@ -2,7 +2,7 @@
 
 First Repository
 
-This project is about making a sudoku game website using python.
+This project is about making an interesting SUDOKU game website using Python.
 
 ## Features:
 
